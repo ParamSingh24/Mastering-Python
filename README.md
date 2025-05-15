@@ -1,2 +1,2 @@
 # Mastering-Python
-mastering python for gsoc 2025
+mastering python for gsoc 2026
