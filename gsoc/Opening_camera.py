@@ -1,5 +1,6 @@
 import cv2
 
+
 # Initialize the webcam (0 is the default camera)
 video = cv2.VideoCapture(0)
 
