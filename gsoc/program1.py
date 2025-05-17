@@ -11,6 +11,6 @@ def Sieve(n):
     for k in range (2,n+1):
         if prime[k]:
             l.append(k)
-    print(l)
+    print(l)    
 
 Sieve(int(input("Enter number till you want to Find Prime Numbers:")))
