@@ -11,4 +11,4 @@ def Sieve(n):
         if prime(i):
             print(i)
 
-Sieve(int(input("Enter number till you want to Find Prime Numbers")))
+Sieve(int(input("Enter number till you want to Find Prime Numbers::")))
